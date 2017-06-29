@@ -7615,15 +7615,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Uchiha\\.nuget\\packages\\": {}
+    "C:\\Users\\Amaterasu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\uchiha\\documents\\visual studio 2017\\Projects\\StoreAPI\\StoreAPI\\StoreAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Amaterasu\\Desktop\\StoreAPI-master\\StoreAPI.csproj",
       "projectName": "StoreAPI",
-      "projectPath": "c:\\users\\uchiha\\documents\\visual studio 2017\\Projects\\StoreAPI\\StoreAPI\\StoreAPI.csproj",
-      "outputPath": "c:\\users\\uchiha\\documents\\visual studio 2017\\Projects\\StoreAPI\\StoreAPI\\obj\\",
+      "projectPath": "C:\\Users\\Amaterasu\\Desktop\\StoreAPI-master\\StoreAPI.csproj",
+      "outputPath": "C:\\Users\\Amaterasu\\Desktop\\StoreAPI-master\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "net452"
