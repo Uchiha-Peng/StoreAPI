@@ -131,7 +131,7 @@ namespace StoreAPI.Models
 
                 entity.Property(e => e.Email).HasMaxLength(255);
 
-                entity.Property(e => e.Gender).HasColumnType("char(10)");
+                entity.Property(e => e.Gender).HasMaxLength(10);
 
                 entity.Property(e => e.LastLoginTime).HasColumnType("datetime");
 

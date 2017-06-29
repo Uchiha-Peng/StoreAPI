@@ -84,7 +84,7 @@ namespace StoreAPI.Controllers
                     us = u;
                     u.LastLoginTime = DateTime.Now;
                     db.SaveChanges();
-                    return Ok();
+                    return Ok(u);
                 }
                 else
                 {

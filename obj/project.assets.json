@@ -7620,10 +7620,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amaterasu\\Desktop\\StoreAPI-master\\StoreAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Amaterasu\\Documents\\GitHub\\StoreAPI\\StoreAPI.csproj",
       "projectName": "StoreAPI",
-      "projectPath": "C:\\Users\\Amaterasu\\Desktop\\StoreAPI-master\\StoreAPI.csproj",
-      "outputPath": "C:\\Users\\Amaterasu\\Desktop\\StoreAPI-master\\obj\\",
+      "projectPath": "C:\\Users\\Amaterasu\\Documents\\GitHub\\StoreAPI\\StoreAPI.csproj",
+      "outputPath": "C:\\Users\\Amaterasu\\Documents\\GitHub\\StoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "net452"
