@@ -7615,15 +7615,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amaterasu\\.nuget\\packages\\": {}
+    "C:\\Users\\Uchiha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amaterasu\\Documents\\GitHub\\StoreAPI\\StoreAPI.csproj",
+      "projectUniqueName": "E:\\Git\\Projects\\StoreAPI\\StoreAPI.csproj",
       "projectName": "StoreAPI",
-      "projectPath": "C:\\Users\\Amaterasu\\Documents\\GitHub\\StoreAPI\\StoreAPI.csproj",
-      "outputPath": "C:\\Users\\Amaterasu\\Documents\\GitHub\\StoreAPI\\obj\\",
+      "projectPath": "E:\\Git\\Projects\\StoreAPI\\StoreAPI.csproj",
+      "outputPath": "E:\\Git\\Projects\\StoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "net452"
